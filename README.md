@@ -3,4 +3,5 @@ Guides and Tutorials
 
 
 ### Proper Readme coming soon!
-[Install git on linux](install_git_github.md)
+Install git and setup GitHub on Ubuntu 20.04
+[here](install_git_github.md)
