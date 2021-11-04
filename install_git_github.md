@@ -56,7 +56,7 @@ This line may vary depending on your system.
 So here, git_repo is the folder that is created and "init" makes the folder a GitHub repository. Change the directory to this newly created folder:
 
 ```
-cd Mytest
+cd git_repo
 ```
 
 ### Creating a README file to describe the repository
